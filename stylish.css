@@ -1,0 +1,38 @@
+body {
+    background-color: rebeccapurple;
+    border: 0px;
+    margin: 0px;
+   
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.box1 {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+
+}
+
+.box2 {
+    background-color: blue;
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    top: 101px;
+    border: 2px solid red;
+
+}
+
+.box3 {
+    background-color: green;
+    width: 250px;
+    height: 600px;
+    position: absolute;
+    top: 505px;
+    border-radius: 6px;
+
+}
